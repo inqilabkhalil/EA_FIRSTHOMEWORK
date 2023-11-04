@@ -1,0 +1,22 @@
+body{
+    background: url(/images/Background.png);
+}
+.div1{
+    border: 1px solid #4aaaa5;
+    background-color: #4aaaa5;
+    font-size: 20px;
+    margin-right: 75%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.div2{
+    color: #4aaaa5;
+}
+.aboutclas{
+    color: #4aaaa5;
+    font-family:Arial, Helvetica, sans-serif
+}
